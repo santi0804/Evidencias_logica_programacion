@@ -1,13 +1,7 @@
 <!-- No borrar o modificar -->
 [Inicio](./index.md)
 
-## Sesión 2
 
+# Actividad 2: Instalación de Entornos de Desarrollo para Java y ejercicios de programación básica.
 
-<!-- Su documentación aquí -->
-
-
-
-
-
-
+Esta actividad se realizó en casa con la capacidad segun la maquina de cada estudiante.
