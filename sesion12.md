@@ -6,4 +6,6 @@
 
 ### Realización de examen
 
-<!-- Su documentación aquí -->
+<br>
+
+Efectuamos arreglos de nuevas notas.
